@@ -1,9 +1,3 @@
-# Assignment 4: Sorting: The Game of Life
-# Name: Pakhi Sinha
-# Cruz id: pasinha
-# Professor: Dr. Veenstra
-
-
 ## Short Description:
 	This program implements the game of life created by mathematician John Horton Conway.
 	It follows the following rules:
